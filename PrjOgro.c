@@ -18,7 +18,7 @@ int main(void) {
 	scanf("%d", &n);
 
 	if (n < 0 || n > 10) {
-		printf("\n O ogro só exibe números de 0 a 10, esse número não pertence ao intervalo dito.");
+		printf("O ogro só exibe números de 0 a 10, esse número não pertence ao intervalo dito.");
 		return 1;
 	}
 
